@@ -1,0 +1,1 @@
+Basic clock implementation with time and date display. Uses built-in Date object and setInterval for updates. Includes minimal styling with a modern glassmorphism effect.
